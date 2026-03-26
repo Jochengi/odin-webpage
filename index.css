@@ -64,9 +64,11 @@ button {
 }
 
 .main-image {
-  width: 600px;
+  width: 3000px;
   height: 200px;
-  object-fit: contain;
+  object-fit: stretch;
+  margin: 0;
+  padding: 0;
 }
 
 .s1 {
