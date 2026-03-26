@@ -1,6 +1,7 @@
 body {
   font-family: "Roboto", system-ui, -apple-system, sans-serif;
   margin: 0;
+  min-width: 1000px;
 }
 
 .division-one {
